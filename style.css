@@ -1,7 +1,6 @@
 div {
   display: inline-block;
-  text-align: center;
-  background: violet;
+  text-align: left;
   width: 960px;
 }
 
@@ -47,6 +46,8 @@ p {
   padding: 10px 20px;
   position: relative;
   border-radius: 10%;
+  margin-top: 42px;
+  margin-left: 10px;
 }
 
 footer {
