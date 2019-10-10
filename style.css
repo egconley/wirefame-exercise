@@ -1,12 +1,12 @@
 div {
   display: inline-block;
   text-align: left;
-  width: 960px;
+  width: 1000px;
 }
 
 body {
   text-align: center;
-  width: 1400px;
+  width: 2000px;
   margin: 0px 0px 0px; 
 }
 
@@ -17,7 +17,7 @@ nav {
   background: black;
   color: white;
   height: 70px;
-  width: 200px;
+  width: 300px;
   text-align: center;
   vertical-align: middle;
 }
