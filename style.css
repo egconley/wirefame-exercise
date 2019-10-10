@@ -2,7 +2,7 @@ div {
   display: inline-block;
   text-align: center;
   background: violet;
-  margin: 0px 0px 0px; 
+  width: 960px;
 }
 
 body {
@@ -41,18 +41,12 @@ p {
   font-style: italic;
 }
 
-#buttonPosition {
-  position: relative;
-}
-
 #call {
   background: black;
   color: white;
   padding: 10px 20px;
-  position: absolute;
+  position: relative;
   border-radius: 10%;
-  margin-bottom: 0px;
-  float: left;
 }
 
 footer {
