@@ -1,0 +1,75 @@
+div {
+  display: inline-block;
+  text-align: center;
+  background: violet;
+  margin: 0px 0px 0px; 
+}
+
+body {
+  text-align: center;
+  width: 1400px;
+  margin: 0px 0px 0px; 
+}
+
+nav {
+  display: inline-block;
+}
+.navItem {
+  background: black;
+  color: white;
+  height: 70px;
+  width: 200px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.navItem, a, #call {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  width: 400px;
+  height: 150px;
+  display: block;
+}
+
+h3 {
+  font-weight: bold;
+}
+
+p {
+  font-style: italic;
+}
+
+#buttonPosition {
+  position: relative;
+}
+
+#call {
+  background: black;
+  color: white;
+  padding: 10px 20px;
+  position: absolute;
+  border-radius: 10%;
+  margin-bottom: 0px;
+  float: left;
+}
+
+footer {
+  margin: 30px 15px 0px; 
+}
+
+.grid_4 {
+  margin: 30px 15px 0px;
+}
+
+.grid_6 {
+  margin: 30px 15px 0px;
+  text-align: left;
+  overflow: scroll;
+  float: left;
+}
+
+#grid_12 {
+  margin: 30px 15px 0px; 
+}
