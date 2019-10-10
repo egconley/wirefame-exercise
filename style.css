@@ -1,7 +1,7 @@
 div {
   display: inline-block;
   text-align: left;
-  width: 960px;
+  width: 1000px;
 }
 
 body {
@@ -17,7 +17,7 @@ nav {
   background: black;
   color: white;
   height: 70px;
-  width: 200px;
+  width: 300px;
   text-align: center;
   vertical-align: middle;
 }
